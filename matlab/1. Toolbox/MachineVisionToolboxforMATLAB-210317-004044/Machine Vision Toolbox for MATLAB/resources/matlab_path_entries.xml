@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<paths>
+
+  <path>.</path>
+
+  <path>simulink</path>
+
+  <path>common</path>
+
+  <path>contrib/graphseg</path>
+
+  <path>contrib/vlfeat-0.9.20/toolbox/mex/mexmaci64</path>
+
+  <path>contrib/vgg</path>
+
+  <path>contrib</path>
+
+  <path>vision/data</path>
+
+  <path>vision/mex</path>
+
+  <path>vision/images</path>
+
+  <path>vision/examples</path>
+
+  <path>vision</path>
+
+  <path>robot</path>
+
+</paths>

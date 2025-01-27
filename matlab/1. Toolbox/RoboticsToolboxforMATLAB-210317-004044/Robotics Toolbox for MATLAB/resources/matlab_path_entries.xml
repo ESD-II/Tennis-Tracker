@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<paths>
+
+  <path>.</path>
+
+  <path>simulink</path>
+
+  <path>common</path>
+
+  <path>contrib/pHRIWARE/next</path>
+
+  <path>contrib</path>
+
+  <path>robot/interfaces/VREP</path>
+
+  <path>robot/data</path>
+
+  <path>robot/models</path>
+
+  <path>robot/mex</path>
+
+  <path>robot/Apps</path>
+
+  <path>robot/examples</path>
+
+  <path>robot/demos</path>
+
+  <path>robot</path>
+
+</paths>
