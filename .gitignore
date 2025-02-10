@@ -1,5 +1,8 @@
-# CLion
-build/**
+# CLion Files
+build*/
+.idea/
+.vscode/
+.cache/
 
-# Matlab
+# Matlab Files
 matlab/**/*jpg

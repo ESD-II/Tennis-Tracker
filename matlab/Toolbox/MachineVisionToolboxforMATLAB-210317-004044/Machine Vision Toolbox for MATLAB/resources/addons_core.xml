@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<addonCore>
+
+  <label>Machine Vision Toolbox for MATLAB</label>
+
+  <version>4.2.1</version>
+
+  <type>Toolbox</type>
+
+  <identifier>221eabe4-4907-4cf0-b5ed-caed095bc04d</identifier>
+
+  <summary>MATLAB support for computer vision and feature extraction</summary>
+
+  <description>MATLAB support for computer vision and feature extraction</description>
+
+  <createdBy name="Peter Corke"/>
+
+  <image>resources/screenshot.png</image>
+
+</addonCore>
